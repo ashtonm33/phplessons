@@ -3,4 +3,9 @@ p{
     font-size: 120px;
     font-family: Arial;
     margin-top: 38vh;
+    color: blue;
+}
+
+nav {
+    background-color: blue;
 }
